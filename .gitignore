@@ -1,0 +1,7 @@
+.cache/
+build/
+dist/
+__pycache__/
+*.pyc
+.venv/
+*.su

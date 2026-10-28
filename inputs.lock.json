@@ -1,0 +1,30 @@
+{
+  "repository": "smhgzll/dmt-99-multimeter-custom-firmware",
+  "commit": "1fef86f4a6d7417cd47ae4ef1f60d302e0dfc737",
+  "files": [
+    {
+      "path": "tools/rv32_trace.py",
+      "sha256": "068348cfde9c4b0291096447db6845542b6eb015a963daca578d4f5547e1c10c"
+    },
+    {
+      "path": "tools/rv32_subset.py",
+      "sha256": "4d90121c709d8ead9064f238cf3aaa9b77043192df6b8100f7f2858da9ef983e"
+    },
+    {
+      "path": "analysis/instructions.json",
+      "sha256": "9540fb6dbf61758e868e53f532dfe468734f0e4ee520138fa4302eab24e23745"
+    },
+    {
+      "path": "analysis/ncv_gap_instructions.json",
+      "sha256": "bddf0c2c146327033efeea7eb3cabbef6abb61ce2eb87ce14bca74131bab9921"
+    },
+    {
+      "path": "analysis/flash_files.json",
+      "sha256": "3ab2972468853a1ef5f74db196b99bc25570f5da62d0a0b8ede299722e2a706c"
+    },
+    {
+      "path": "artifacts/flash/original/dmt99_flash_1.bin",
+      "sha256": "fc6bf2ed36f578c15725a4365c4a381c98ce42657d3b8a98ff06efb1b6427d69"
+    }
+  ]
+}
